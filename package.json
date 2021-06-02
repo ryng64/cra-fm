@@ -1,0 +1,9 @@
+{
+  "name": "cra-fm",
+  "version": "1.0.0",
+  "description": "create react app utilities for FM",
+  "main": "index.js",
+  "repository": "git@github.com:ryng64/cra-fm.git",
+  "author": "Ryan Gold <ryng64@gmail.com>",
+  "license": "MIT"
+}
